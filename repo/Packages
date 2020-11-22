@@ -2,7 +2,7 @@ Package: io.nguyenhoa.system
 Version: 4.5.0
 Architecture: iphoneos-arm
 Maintainer: Nguyễn Hoà <hoataofb@outlook.com.vn>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/io.nguyenhoa.system_4.5.0_iphoneos-arm.deb
 Size: 72244
 MD5sum: 16B0573EB02E8AA142CEFF4187168505
@@ -13,12 +13,13 @@ Description: This is a developer library for better preferences and useful utili
 Tag: role::developer
 Author: Nguyễn Hoà <hoataofb@outlook.com.vn>
 Name: Nguyen Hoa System
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
 Package: io.nguyenhoa.icon
 Version: 4.0
 Architecture: iphoneos-arm
 Maintainer: Nguyễn Hoà <hoataofb@outlook.com.vn>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/io.nguyenhoa.icon_4.0_iphoneos-arm.deb
 Size: 39380
 MD5sum: 13AFF73F5C16DCC44593D8A52E0E4793
@@ -28,13 +29,14 @@ Section: System
 Description: This is a developer library for better preferences and useful utilities.
 Tag: role::developer
 Author: Nguyễn Hoà <hoataofb@outlook.com.vn>
-Name: Nguyen Hoa System
+Name: Nguyen Hoa Icon
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
 Package: io.nguyenhoa.facebooknoads
 Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: Nguyễn Hoà
-Depends: mobilesubstrate, preferenceloader, io.nguyenhoa.system, io.nguyenhoa.icon (>= 4.5.0), firmware (>= 10)
+Depends: mobilesubstrate, preferenceloader, io.nguyenhoa.system, io.nguyenhoa.icon
 Filename: ./debs/io.nguyenhoa.facebooknoads_1.4.0_iphoneos-arm.deb
 Size: 270196
 MD5sum: EC02A82F231E80D8DFDFDF34B0991A77
@@ -61,3 +63,4 @@ Description: Free & Open Source Tweak for Facebook
  Thanks a ton
 Author: Nguyễn Hoà
 Name: Facebook No Ads
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
