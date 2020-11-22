@@ -1,0 +1,66 @@
+Package: io.nguyenhoa.system
+Version: 4.6.0
+Architecture: iphoneos-arm
+Maintainer: Nguyễn Hoà <hoataofb@outlook.com.vn>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/io.nguyenhoa.system_4.6.0_iphoneos-arm.deb
+Size: 72228
+MD5sum: eca3368167f2228eb728a2e2a6b4220d
+SHA1: eb63e7e99894cfb7b7820de520f3d3fb9beddda6
+SHA256: 13b8cb726265b2e68d2ccd81c47713d9702d070e90630e4a80245e36109c45c0
+Section: System
+Description: This is a developer library for better preferences and useful utilities.
+Tag: role::developer
+Author: Nguyễn Hoà <hoataofb@outlook.com.vn>
+Name: Nguyen Hoa System
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+
+Package: io.nguyenhoa.icon
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: Nguyễn Hoà <hoataofb@outlook.com.vn>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/io.nguyenhoa.icon_5.0_iphoneos-arm.deb
+Size: 39384
+MD5sum: e8d52c20a7eae9083da3faeccf4fbf74
+SHA1: a3dcec01cad67d892ac312b7459eda0bdc6783df
+SHA256: d8cef2e5dcb2164c018dcc5922d6abcaef371fafc4bee57f80c3cd5452ed04f1
+Section: System
+Description: This is a developer library for better preferences and useful utilities.
+Tag: role::developer
+Author: Nguyễn Hoà <hoataofb@outlook.com.vn>
+Name: Nguyen Hoa Icon
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+
+Package: io.nguyenhoa.facebooknoads
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Nguyễn Hoà
+Depends: mobilesubstrate, preferenceloader, io.nguyenhoa.system, io.nguyenhoa.icon
+Filename: ./debs/io.nguyenhoa.facebooknoads_2.0_iphoneos-arm.deb
+Size: 270172
+MD5sum: 399345c5dff4efab9a2cd7332446b150
+SHA1: a16ad84b020353e58799e2dc90353aaa821769f6
+SHA256: af43e6a0dc56493a9cbdb21915a2b017de4f0124e2416baa77e754ae08bf2de6
+Section: Tweaks
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ .
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 10 (not tested) - 11 (tested) - 12 (tested) - 13 (tested) - 14 (tested)
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 260.0)
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/SMLxuneo
+ .
+ Thanks a ton
+Author: Nguyễn Hoà
+Name: Facebook No Ads
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
