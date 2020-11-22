@@ -1,0 +1,49 @@
+Package: io.nguyenhoa.system
+Version: 4.5.0
+Architecture: iphoneos-arm
+Maintainer: Nguyen Hoa <hoataofb@outlook.com.vn>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Filename: ./debs/io.nguyenhoa.system_4.5.0_iphoneos-arm.deb
+Size: 7221
+MD5sum: B3E0E12D04F53173E7025E9AA86AC63E
+SHA1: AA36AA1DD87530277E2E85C2E6E3B2AA4936BF1D
+SHA256: 88115E57743B24BD41693643D8B32E00C1FBF6B69CD354C19E2ED3D1322EFC2A
+Section: System
+Description: This is a developer library for better preferences and useful utilities.
+Tag: role::developer
+Author: Nguyen Hoa <hoataofb@outlook.com.vn>
+Name: Nguyen Hoa System
+
+Package: io.nguyenhoa.facebooknoads
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Nguyen Hoa
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, io.nguyenhoa.system (>= 4.5.0), firmware (>= 10)
+Filename: ./debs/io.nguyenhoa.facebooknoads_1.4.0_iphoneos-arm.deb
+Size: 270146
+MD5sum: E5315D64A087F938115BE3F709E19C26
+SHA1: 6E68617D16B9AACCF1B323EF14EC9457C5F4341F
+SHA256: 192966D6C2CB7A7D68E376A08315F741C03A413C0FA5BCE5FC4A0D798DFBBE19
+Section: Tweaks
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ .
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 10 (not tested) - 11 (tested) - 12 (tested) - 13 (tested) - 14 (tested)
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 260.0)
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Nguyen Hoa
+Name: Facebook No Ads
