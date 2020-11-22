@@ -1,31 +1,45 @@
 Package: io.nguyenhoa.system
 Version: 4.5.0
 Architecture: iphoneos-arm
-Maintainer: Nguyen Hoa <hoataofb@outlook.com.vn>
-Installed-Size: 380
+Maintainer: Nguyễn Hoà <hoataofb@outlook.com.vn>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
 Filename: ./debs/io.nguyenhoa.system_4.5.0_iphoneos-arm.deb
-Size: 7221
-MD5sum: B3E0E12D04F53173E7025E9AA86AC63E
-SHA1: AA36AA1DD87530277E2E85C2E6E3B2AA4936BF1D
-SHA256: 88115E57743B24BD41693643D8B32E00C1FBF6B69CD354C19E2ED3D1322EFC2A
+Size: 72244
+MD5sum: 16B0573EB02E8AA142CEFF4187168505
+SHA1: 55CA6251458F6E9A3583236456DF252369AE6250
+SHA256: 2D7830C8912FD4F176E3F0BEC3B9A20BF758A9BC9688D8686A183DB4399E5C6F
 Section: System
 Description: This is a developer library for better preferences and useful utilities.
 Tag: role::developer
-Author: Nguyen Hoa <hoataofb@outlook.com.vn>
+Author: Nguyễn Hoà <hoataofb@outlook.com.vn>
+Name: Nguyen Hoa System
+
+Package: io.nguyenhoa.icon
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Nguyễn Hoà <hoataofb@outlook.com.vn>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Filename: ./debs/io.nguyenhoa.icon_4.0_iphoneos-arm.deb
+Size: 39380
+MD5sum: 13AFF73F5C16DCC44593D8A52E0E4793
+SHA1: 2787022D77E5B82C6510E921C059B52F8FE2CABA
+SHA256: 898A7B5B5F2F13C9B2879C489F04F34A7EF6B709041BFC88F63572FA8FA4AF60
+Section: System
+Description: This is a developer library for better preferences and useful utilities.
+Tag: role::developer
+Author: Nguyễn Hoà <hoataofb@outlook.com.vn>
 Name: Nguyen Hoa System
 
 Package: io.nguyenhoa.facebooknoads
 Version: 1.4.0
 Architecture: iphoneos-arm
-Maintainer: Nguyen Hoa
-Installed-Size: 584
-Depends: mobilesubstrate, preferenceloader, io.nguyenhoa.system (>= 4.5.0), firmware (>= 10)
+Maintainer: Nguyễn Hoà
+Depends: mobilesubstrate, preferenceloader, io.nguyenhoa.system, io.nguyenhoa.icon (>= 4.5.0), firmware (>= 10)
 Filename: ./debs/io.nguyenhoa.facebooknoads_1.4.0_iphoneos-arm.deb
-Size: 270146
-MD5sum: E5315D64A087F938115BE3F709E19C26
-SHA1: 6E68617D16B9AACCF1B323EF14EC9457C5F4341F
-SHA256: 192966D6C2CB7A7D68E376A08315F741C03A413C0FA5BCE5FC4A0D798DFBBE19
+Size: 270196
+MD5sum: EC02A82F231E80D8DFDFDF34B0991A77
+SHA1: 8E9404B720879D28FDEC1EBEDA8661C392D5634B
+SHA256: CEB3CF5B80DCE7E28B33088BAC04B98A5362E3D13BA0D39985290E8234828071
 Section: Tweaks
 Description: Free & Open Source Tweak for Facebook
  Free & Open Source Tweak for Facebook
@@ -42,8 +56,8 @@ Description: Free & Open Source Tweak for Facebook
  - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 260.0)
  .
  I work very hard to make good, free and open source tweaks for everyone
- If you want to support, you can buy me a coffee at https://www.paypal.me/
+ If you want to support, you can buy me a coffee at https://www.paypal.me/SMLxuneo
  .
  Thanks a ton
-Author: Nguyen Hoa
+Author: Nguyễn Hoà
 Name: Facebook No Ads
