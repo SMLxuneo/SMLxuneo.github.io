@@ -37,7 +37,7 @@ Version: 1.5.0
 Architecture: iphoneos-arm
 Maintainer: Nguyễn Hoà
 Depends: mobilesubstrate, preferenceloader, io.nguyenhoa.system, io.nguyenhoa.icon
-Filename: ./debs/io.nguyenhoa.facebooknoads_1.4.0_iphoneos-arm.deb
+Filename: ./debs/io.nguyenhoa.facebooknoads_1.5.0_iphoneos-arm.deb
 Size: 270196
 MD5sum: 3f1b0c68cb54402afde24cbbc310281e
 SHA1: 50a5db15e4c29fa7aa82c559bc1d00cc6e98f93c
