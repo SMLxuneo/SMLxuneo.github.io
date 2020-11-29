@@ -64,3 +64,20 @@ Description: Free & Open Source Tweak for Facebook
 Author: Nguyễn Hoà
 Name: Facebook No Ads
 Icon: file:///Applications/Cydia.app/Sections/tienich.png
+
+Package: io.nguyenhoa.nhaccuatuivip
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Nguyễn Hoà <hoataofb@outlook.com.vn>
+Depends: mobilesubstrate
+Filename: ./debs/io.nguyen.nhaccuatuivip_1.5_iphoneos-arm.deb
+Size: 5334
+MD5sum: 9860d9dcb3c458c8e6a4add5cdb2cb66
+SHA1: d076e46ae9106058e30de60c4e88ca9278eb78e3
+SHA256: 709b3eb3249d6acdfbc362aa2e41d171f7e6ead59bb75692d771582ac830aa0c
+Section: Hack Apps
+Description: Dùng để kích hoạt VIP cho Nhaccuatui!
+Tag: role::developer
+Author: Nguyễn Hoà <hoataofb@outlook.com.vn>
+Name: Nhaccuatui VIP
+Icon: file:///Applications/Cydia.app/Sections/hackud.png
